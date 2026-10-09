@@ -4,8 +4,6 @@ AEGIS is an independent assurance-plane concept for consequential AI-enabled sys
 
 ## Public repository boundary
 
-This repository is a public positioning and evaluation surface only. It intentionally contains no AEGIS implementation, six-primitives runtime, deployment configuration, proof artifacts, retained evidence, ownership records, internal security material, or confidential IP.
-
 The six-primitives implementation scope is frozen and remains outside this repository. Nothing in this README should be read as a technical disclosure, product certification, security assurance, performance commitment, or statement that a particular control has been independently validated.
 
 ## What is included
