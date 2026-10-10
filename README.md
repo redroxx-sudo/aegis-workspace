@@ -23,6 +23,8 @@ The six-primitives implementation scope is frozen and remains outside this repos
 
 Public material is deliberately limited. Qualified parties may request an appropriate diligence pathway through the project owner. Any restricted material is shared separately and only under suitable terms.
 
+Do not submit restricted AEGIS material, credentials, personal data, confidential diligence questions, or non-public security details through public issues, pull requests, discussions, comments, commits, or attachments. Arrange a private communication channel with the project owner before sharing confidential information. Restricted material may be shared only within an approved scope and under agreed written confidentiality and evaluation terms.
+
 ## Status
 
 This repository is not an open-source distribution. Nothing in this repository grants permission to use, copy, modify, distribute, reverse-engineer, or commercialize restricted AEGIS material. The absence of a licence file is intentional.
